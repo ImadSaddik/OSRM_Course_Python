@@ -1,0 +1,5 @@
+folium
+pandas
+requests
+pydantic==2.10.3
+pydantic_core==2.27.1
